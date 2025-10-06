@@ -1,8 +1,6 @@
 # How to install OPM
 
-- Install Prerequisites: https://opm-project.org/?page_id=239
-    - Run `build_dune.sh`
-    - Run `install_zoltan.sh`
+- Run `install_prerequisites.sh` (Implements steps described for mac here: https://opm-project.org/?page_id=239)
 
 - Run `install_opm.sh`
 
